@@ -115,6 +115,7 @@ AFRICA
 * [Thalia.de](https://www.thalia.de/shop/home/artikeldetails/A1069471844)  
 * [Hugendubel.de](https://www.hugendubel.de/de/buch_kartoniert/daniel_shiffman-the_nature_of_code-46872129-produkt-details.html)  
 * [Dussmann.de](https://www.kulturkaufhaus.de/de/detail/ISBN-9781718503700/Shiffman-Daniel/The-Nature-of-Code)
+* [jpc.de](https://www.jpc.de/jpcng/books/detail/-/art/daniel-shiffman-the-nature-of-code/hnum/11604385)
 
 **Switzerland**
 
