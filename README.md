@@ -104,7 +104,7 @@ AFRICA
 
 **Norway**
 
-* ⚠️[Tanum.no](https://www.tanum.no/)
+* [Ark.no](https://www.ark.no/produkt/boker/fagboker/the-nature-of-code-9781718503700)
 
 **Finland**
 
