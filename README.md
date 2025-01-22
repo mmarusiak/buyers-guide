@@ -82,6 +82,9 @@ AFRICA
 
 ### EUROPE
 
+**Belgium**
+* [Bol](https://www.bol.com/nl/nl/p/the-nature-of-code/9300000169959900/)
+
 **UK**
 
 * [Waterstones](https://www.waterstones.com/book/the-nature-of-code/daniel-shiffman/9781718503700)  
@@ -89,7 +92,7 @@ AFRICA
 
 **Netherlands**
 
-* [Bol](https://www.bol.com/nl/nl/p/the-nature-of-code/9300000169959900/?bltgh=lE-x4NOoIOJTxR5XVYtADA.2_6.7.ProductImage)  
+* [Bol](https://www.bol.com/nl/nl/p/the-nature-of-code/9300000169959900)  
 * [Bookspot](https://www.bruna.nl/engelse-boeken/the-nature-of-code-9781718503700)
 
 **Sweden**
